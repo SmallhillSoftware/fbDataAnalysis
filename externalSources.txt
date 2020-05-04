@@ -1,0 +1,5 @@
+c't 10/2019, page 32
+------------------------------------
+upnplib.sh         Function definition for upnpquery.sh
+upnpquery.sh       Read Fritzbox-data using UPnP
+
